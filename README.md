@@ -17,3 +17,9 @@
 ### 1. Cloner le projet
 ```bash
 git clone https://github.com/MOUNIAT-1002/LittleBook_Back.git
+
+
+---
+
+## 🧩 Modèle de donnée
+![Modèle de donnée de l'application](images/md_v1.png)
