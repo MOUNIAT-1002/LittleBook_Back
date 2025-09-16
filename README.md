@@ -1,12 +1,12 @@
 # LittleBook_Back
-# 📘 Backend – Spring Boot 3 + Java 17 + MongoDB + Firebase
+# 📘 Backend – Spring Boot 3 + Java 17 + SQL + Firebase
 
 ## 🚀 Stack technique
 - [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) – LTS stable
 - [Spring Boot 3.x](https://spring.io/projects/spring-boot) – framework backend
 - [Lombok](https://projectlombok.org/) – simplification du code (getters, setters, constructeurs)
 - [JUnit 5](https://junit.org/junit5/) – tests unitaires et d’intégration
-- [MongoDB 8.x](https://www.mongodb.com/) – base de données NoSQL
+- [SQL Database](https://www.mysql.com/) – base de données relationnelle (MySQL, PostgreSQL…)
 - [Firebase](https://firebase.google.com/) – services cloud (authentification, notifications, storage…)
 
 ---
