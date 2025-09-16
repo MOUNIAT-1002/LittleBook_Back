@@ -8,6 +8,7 @@
 - [JUnit 5](https://junit.org/junit5/) – tests unitaires et d’intégration
 - [SQL Database](https://www.mysql.com/) – base de données relationnelle (MySQL, PostgreSQL…)
 - [Firebase](https://firebase.google.com/) – services cloud (authentification, notifications, storage…)
+- [Open library](https://openlibrary.org/developers/api) - Récupération de l'ensemble des livres, genre, ...
 
 ---
 
